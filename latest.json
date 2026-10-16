@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "app.lifememories.recorder",
-  "versionCode": 2,
-  "versionName": "0.1.1",
+  "versionCode": 3,
+  "versionName": "0.1.2",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.1.apk",
-  "sizeBytes": 70104,
-  "sha256": "1d591ecbfa4ba0005e3d255b2fbb2cce71ee8e0ce7d0714f9f8f3b2bbf17df0e",
-  "releaseNotes": "정각 기준 1시간 기록, 중단·재개 묶음, 현재 시간대 재생, 무음 구간, 버튼으로 업데이트",
-  "publishedAt": "2026-10-16T02:28:18.9757118Z"
+  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.2.apk",
+  "sizeBytes": 74200,
+  "sha256": "eb113cc83af6a435fb8a52c8207b257894c0052fb64f17c910ec3148375efee3",
+  "releaseNotes": "기록 화면 전용 재생창, 연·월·일 달력과 요일 표시, 녹음 날짜 표시, 날짜·시간대 선택",
+  "publishedAt": "2026-10-16T14:47:28.7168007Z"
 }
