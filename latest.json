@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "app.lifememories.recorder",
-  "versionCode": 5,
-  "versionName": "0.1.4",
+  "versionCode": 6,
+  "versionName": "0.1.5",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.4.apk",
+  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.5.apk",
   "sizeBytes": 82392,
-  "sha256": "462d808091bb79d408c9645cb506b1c3726ab10991da21e07db318eee8b376a3",
-  "releaseNotes": "오전·오후 시간 표시, 최신 기록 먼저 보기, 백업 날짜별 접기·펼치기, 기본 오늘만 보기, 하루 또는 기간 선택",
-  "publishedAt": "2026-10-17T07:22:52.8320932Z"
+  "sha256": "c682b6b85a36e0a48a152b1dd260919705158a5495bcc9588b2ed482a9b644f9",
+  "releaseNotes": "설치가 진행되는데 설치 준비 실패로 잘못 표시되던 오류 수정, 설치 파일 스트림 중복 닫기 제거, 실제 준비 실패 시 설치 세션 정리",
+  "publishedAt": "2026-10-17T07:52:52.3275590Z"
 }
