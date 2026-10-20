@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "app.lifememories.recorder",
-  "versionCode": 6,
-  "versionName": "0.1.5",
+  "versionCode": 7,
+  "versionName": "0.1.6",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.5.apk",
-  "sizeBytes": 82392,
-  "sha256": "c682b6b85a36e0a48a152b1dd260919705158a5495bcc9588b2ed482a9b644f9",
-  "releaseNotes": "설치가 진행되는데 설치 준비 실패로 잘못 표시되던 오류 수정, 설치 파일 스트림 중복 닫기 제거, 실제 준비 실패 시 설치 세션 정리",
-  "publishedAt": "2026-10-17T07:52:52.3275590Z"
+  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.6.apk",
+  "sizeBytes": 86718,
+  "sha256": "70ac33e4e6691cabb84561fd89e63712066a503a2822ac37cd6e45fa45abe09b",
+  "releaseNotes": "보안 강화: 공식 업데이트 주소·리디렉션 제한, 제작자 인증서 고정·설치 직전 재검증, 비정상 가져오기·경로 차단, 앱 내부 자동 백업·기기 이전 제외, 불필요한 설치 권한 제거",
+  "publishedAt": "2026-10-20T02:03:26.8274643Z"
 }
