@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "app.lifememories.recorder",
-  "versionCode": 7,
-  "versionName": "0.1.6",
+  "versionCode": 8,
+  "versionName": "0.1.7",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.6.apk",
-  "sizeBytes": 86718,
-  "sha256": "70ac33e4e6691cabb84561fd89e63712066a503a2822ac37cd6e45fa45abe09b",
-  "releaseNotes": "보안 강화: 공식 업데이트 주소·리디렉션 제한, 제작자 인증서 고정·설치 직전 재검증, 비정상 가져오기·경로 차단, 앱 내부 자동 백업·기기 이전 제외, 불필요한 설치 권한 제거",
-  "publishedAt": "2026-10-20T02:03:26.8274643Z"
+  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.7.apk",
+  "sizeBytes": 90814,
+  "sha256": "b71436097b7497e832060c01eb028d282477ff0e9888e7446f682e299111f43a",
+  "releaseNotes": "하루소리: 재부팅 후 첫 잠금 해제 시 녹음 이어가기 알림, 한 번 눌러 재개, 살구색 영상 표지와 날짜·요일·오전/오후 시간대 표시. 기존 녹음·영상 보존",
+  "publishedAt": "2026-10-28T07:07:17.1241618Z"
 }
