@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "app.lifememories.recorder",
-  "versionCode": 8,
-  "versionName": "0.1.7",
+  "versionCode": 9,
+  "versionName": "0.1.8",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.7.apk",
-  "sizeBytes": 90814,
-  "sha256": "b71436097b7497e832060c01eb028d282477ff0e9888e7446f682e299111f43a",
-  "releaseNotes": "하루소리: 재부팅 후 첫 잠금 해제 시 녹음 이어가기 알림, 한 번 눌러 재개, 살구색 영상 표지와 날짜·요일·오전/오후 시간대 표시. 기존 녹음·영상 보존",
-  "publishedAt": "2026-10-28T07:07:17.1241618Z"
+  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.8.apk",
+  "sizeBytes": 94910,
+  "sha256": "ace330db00920e027cefa840df073264ba3f467ef3770d7882c7556d4001ea26",
+  "releaseNotes": "시간대별 표지와 목록 색: 새벽·저녁은 고요한 밤, 아침은 맑은 하늘, 오후는 따뜻한 살구. 기록·백업 목록에 색 띠와 시간대 표시. 기존 녹음·영상 보존",
+  "publishedAt": "2026-10-29T02:17:37.7951206Z"
 }
