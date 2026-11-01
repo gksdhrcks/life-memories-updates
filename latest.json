@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "app.lifememories.recorder",
-  "versionCode": 9,
-  "versionName": "0.1.8",
+  "versionCode": 10,
+  "versionName": "0.1.9",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.8.apk",
-  "sizeBytes": 94910,
-  "sha256": "ace330db00920e027cefa840df073264ba3f467ef3770d7882c7556d4001ea26",
-  "releaseNotes": "시간대별 표지와 목록 색: 새벽·저녁은 고요한 밤, 아침은 맑은 하늘, 오후는 따뜻한 살구. 기록·백업 목록에 색 띠와 시간대 표시. 기존 녹음·영상 보존",
-  "publishedAt": "2026-10-29T02:17:37.7951206Z"
+  "apkUrl": "https://raw.githubusercontent.com/gksdhrcks/life-memories-updates/main/LifeMemories-0.1.9.apk",
+  "sizeBytes": 99006,
+  "sha256": "718ebe3f0e204b3866d7178b085b034a5ab0bbea85a70edcd7d8d44ee76688f3",
+  "releaseNotes": "녹음 문제 확인: 중단·재시도·마지막 저장과 Android 종료 기록. 중요 표시 및 중요 표지가 있는 별도 영상 저장. 기존 원본·영상 보존",
+  "publishedAt": "2026-11-01T18:20:09.1999390Z"
 }
